@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <>
-      <h1>Test heading 2</h1>
+      <h1>Test heading 3</h1>
       <div className="card">
         <button type="button" onClick={() => setCount((count) => count + 1)}>
           count is {count}
